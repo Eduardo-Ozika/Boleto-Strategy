@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/RetornoBoleto.iml" filepath="$PROJECT_DIR$/RetornoBoleto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RetornoBoleto-strategy.iml" filepath="$PROJECT_DIR$/RetornoBoleto-strategy.iml" />
     </modules>
   </component>
 </project>
